@@ -1,0 +1,36 @@
+[
+  {
+    "title": "REST",
+    "content": "REST is short for REpresentational State Transfer. It's an architechtural style for designing APIs."
+  },
+  {
+    "title": "EJS",
+    "content": "EJS \nAngela course. Creer des templates qui affiche du html dynamiquement. \n Creer dossier app \n mkdir app \n cd app \n touch server.js"
+  },
+  {
+    "title": "EXPRESS",
+    "content": "Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications. \n const app = express()"
+  },
+  {
+    "title": "MONGO DB",
+    "content": "Get your ideas to market faster with a developer data platform built on the leading modern database. Support transactional, search, analytics, and mobile use cases while using a common query interface and the data model developers love."
+  },
+  {
+    "title": "MONGOOSE",
+    "content": "Mongoose is a JavaScript object-oriented programming library that creates a connection between MongoDB and the Node.js JavaScript runtime environment"
+  },
+  {
+    "title": "GRAPHQL",
+    "content": "Like REST API is an architecture, GraphQL is another one. GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools."
+  },
+  {
+    "title": "React",
+    "content": "JS framework",
+    "__v": 0
+  },
+  {
+    "title": "Svelte",
+    "content": "A GREAT JS framework",
+    "__v": 0
+  }
+]
