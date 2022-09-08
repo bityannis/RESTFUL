@@ -1,5 +1,5 @@
 # RESTFUL
-Basic server and RESTFUL API using Chained Route handlers with Express
+Basic server and RESTFUL API using Chained Route handlers with Express and MongoDB
 
 ```
 nodemon app.js
